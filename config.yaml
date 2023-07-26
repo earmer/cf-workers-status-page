@@ -51,4 +51,4 @@ monitors:
     description: 'A Mediawiki BBS for Students in Beijing 101 Middle School'
     url: 'https://101wiki.top'
     method: GET
-    expectStatus: 405
+    expectStatus: 200
