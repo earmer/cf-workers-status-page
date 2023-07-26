@@ -41,9 +41,9 @@ monitors:
     
   - id: bt-earmer-top
     name: bt.earmer.top
-    url: 'https://bt.earmer.top/1145141919810'
+    url: 'https://bt.earmer.top/'
     method: GET
-    expectStatus: 200
+    expectStatus: 404
     linkable: false
 
   - id: 101wiki-top
