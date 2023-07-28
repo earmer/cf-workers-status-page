@@ -49,6 +49,7 @@ monitors:
   - id: 101wiki-top
     name: 101wiki.top
     description: 'A Mediawiki Site for Students in Beijing 101 Middle School'
-    url: 'https://101wiki.top/index.php/首页'
+    url: 'https://101wiki.top/wiki/首页'
     method: GET
     expectStatus: 200
+    followRedirect: true
