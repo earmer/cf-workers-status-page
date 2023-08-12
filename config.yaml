@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: www-101stu-top # unique identifier
-    name: www.earmer.top
+    name: 一零一学生论坛
     description: '一零一学生论坛' # default=empty
     url: 'https://www.101stu.top/' # URL to fetch
     method: GET # default=GET
